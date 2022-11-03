@@ -9,7 +9,7 @@ Provisioning the EKS cluster in AWS:
 ## Q2
 Provining the ingress controller
 
-1. Using NLB
+1. Using NLB as the entry
 2. Two ingress controller, one is internet-facing, the other one is internal
 
 ## Assignment contents
@@ -17,4 +17,4 @@ Provining the ingress controller
 2. Commands to run for provisioning
 
 ## how to upload your assignments
-you can raise a PR with the code you need to upload
+You can raise a PR with the code you need to upload
