@@ -16,5 +16,7 @@ Provining the ingress controller
 1. Infrastructure code to provisioning EKS cluster
 2. Commands to run for provisioning
 
+Hint: you can use terraform code or script for the provisioning
+
 ## how to upload your assignments
 You can raise a PR with the code you need to upload
